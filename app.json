@@ -1,7 +1,7 @@
 {
     "name": "virusi-md@1.0.0",
-    "description": "I am Virusi-Mbaya-Md Whatsapp MultiDevice Whatsapp Bot built in NodeJs to make experience better",
-    "logo": "https://telegra.ph/file/8aa6951466328563add47.jpg",
+    "description": "I am GRIM-Md Whatsapp MultiDevice Whatsapp Bot built in NodeJs to make experience better",
+    "logo": "https://i.imgur.com/xVG9pzH.jpeg",
     "keywords": ["virusi-md", "vurusian", "Virusi-Md"],
     "success_url": "/",
     "stack": "container",
@@ -9,7 +9,7 @@
     "env": {
       "OWNER_NAME": {
         "description": "Name for Bot Owner",
-        "value": "Virusi Mbaya",
+        "value": "Papa igwe",
         "required": false },
   
     
@@ -26,7 +26,7 @@
       "BOT_NAME": {
         "description": "Your Bot Name",
         "required": false,
-        "value": "𝗩𝗜𝗥𝗨𝗦𝗜-𝗠𝗕𝗔𝗬𝗔-𝗠𝗗"
+        "value": "𝙶𝚁𝙸𝙼-𝙱𝚃"
       },
       "TZ": {
         "description": "Put TIME_ZONE according to your location",
@@ -36,7 +36,7 @@
          "SUDO": {
         "description": "Numbers you wish to be second bot owners",
         "required": false,
-        "value": "254762016957,254700505700"
+        "value": "24160338758,24160338758"
       },
       "READ_COMMAND": {
         "description": " Read bot cmds",
@@ -94,15 +94,15 @@
       },
        "USER_IMAGES": {
         "description": "User Images",
-        "value": "https://telegra.ph/file/8aa6951466328563add47.jpg"
+        "value": "https://i.imgur.com/xVG9pzH.jpeg"
       },
       "THUMB_IMAGE": {
       "description": "Menu Image",
-      "value": "https://telegra.ph/file/8aa6951466328563add47.jpg"
+      "value": "https://i.imgur.com/xVG9pzH.jpeg"
       },
       "OWNER_NUMBER": {
         "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-        "value": "254748721079"
+        "value": "24160338758"
       },
       "SESSION_ID": {
         "description": "put your SESSION_ID here.",
@@ -119,7 +119,7 @@
       },
       "PACK_AUTHER": {
         "description": "Put Sticker Author_Name.",
-        "value": "Virusi-Md",
+        "value": "grim-bt by igwe",
         "required": false
       }
     },
