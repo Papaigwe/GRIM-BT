@@ -1,5 +1,5 @@
 while true
 do
-echo "Starting Virusi-Md!"
+echo "Starting Grim-bt!"
 node .
 done
