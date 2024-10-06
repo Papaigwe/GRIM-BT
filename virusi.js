@@ -2,7 +2,7 @@ const bot = require(__dirname + '/lib/virussi')
 const { VERSION } = require(__dirname + '/config')
 
 const start = async () => {
-    Debug.info(`Starting Virusi - ${VERSION}`)
+    Debug.info(`Starting Grim - ${VERSION}`)
   try {
     await bot.init()
     //bot.logger.info('⏳ Database Syncing!')
